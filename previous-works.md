@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Previous projects
-The projects I have done
+The projects that I've worked on in the past. 
 
 ### Project 1: Adaptive coverage control for dynamic pattern generation
 * Construct the adaptive controller for dynimic changing area
