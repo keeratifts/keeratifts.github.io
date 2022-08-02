@@ -15,6 +15,14 @@ Hi! My name is Keerati Fungtammasan (Key). Here is my personal website. You can 
 * Project in developed an IoT-based locker system with a mobile application. Integrating IoT technologies to transform traditional lockers into smart lockers.
 * Develop skills in digital electronics, microprocessors, control systems, electrical machines, machine dynamics and design, robotic systems and software design.
 
+## Experience
+### Teaching Assistant, Ritsumeikan University, Japan. (09/2021 - 08/2022)
+* Assist in the teaching of Numerical Algorithms, Boolean algebra and logical design, Engineering Mathematics, Data Structures and Algorithms, and Project -based Learning classes for Bachelor’s students.
+
+### Student Research Intern, Toyama National College of Technology, Japan. (02/2019 - 06/2019)
+* Research on the development of autonomous mobile robot systems.
+* Designed, constructed, and successfully tested a mobile robot arm from the ground up, including 3D CAD modeling, electronic circuit design, and programming in the Arduino language.
+
 ## Publication
 * K. Fungtammasan, Y. Bai, M. Svinin, F. Matsuno, E. Magid, J. Suthakorn, "Adaptive Coverage Control for Dynamic Pattern Generation", The 13th Asian Control Conference, Jeju island, Korea, May 2022.
 * K. Fungtammasan, Y. Bai, M. Svinin, F. Matsuno, E. Magid, J. Suthakorn, "Adaptive Coverage Control for Multiple Car-Like Vehicles", 5th International Symposium on Swarm Behavior and Bio-Inspired Robotics, Online, January 2022.
