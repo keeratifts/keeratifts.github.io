@@ -16,7 +16,9 @@ The projects that I've worked on in the past.
 * Approaches based on the Control Barrier Function are being considered as potential solutions to the problem of managing intersections. 
 * The goals of these solutions are to ensure safety by reducing the likelihood of collisions and to improve the throughput of the intersection while simultaneously minimizing the amount of time that traffic is delayed.
 
+![cbf_traf](https://user-images.githubusercontent.com/76491592/182361237-c3f808f0-ffc3-4851-a0c7-693ba2997c62.gif)
 ![cbf_real](https://user-images.githubusercontent.com/76491592/182325222-1177e368-0fde-418d-8f1a-0738ad5685cb.gif)
+
 
 ### Project 3: Safe Adaptive Control of Multi-agent System
 * Combine both adaptive controller and control barrier function
