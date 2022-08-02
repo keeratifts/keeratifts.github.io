@@ -28,7 +28,12 @@ Hi! My name is Keerati Fungtammasan (Key). Here is my personal website. You can 
 * K. Fungtammasan, Y. Bai, M. Svinin, F. Matsuno, E. Magid, J. Suthakorn, "Adaptive Coverage Control for Multiple Car-Like Vehicles", 5th International Symposium on Swarm Behavior and Bio-Inspired Robotics, Online, January 2022.
 * D. Guo, K. Fungtammasan, Y. Bai, M. Svinin, "Robust Adaptive Multi-agent Coverage Control for a Dynamically Changing Area", Innovations in Information and Communication Science and Technology 6th International Conference, Tomsk, Russia, November 2021.
 
-## [Previous work](https://keeratifts.github.io/previous-works.html)
+## [Previous projects](https://keeratifts.github.io/previous-works.html)
+* Adaptive coverage control for dynamic pattern generation
+* Autonomous Intersection Management using Control Barrier Function
+* Safe Adaptive Control of Multi-agent System
+
+for more detail please click [Here](https://keeratifts.github.io/previous-works.html)
 
 ## Contact
 **Email**: k.fungtammasan@gmail.com
