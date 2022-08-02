@@ -30,3 +30,6 @@ Hi! My name is Keerati Fungtammasan (Key). Here is my personal website. You can 
 
 ## [Previous work](https://keeratifts.github.io/previous-works.html)
 
+## Contact
+**Email**: k.fungtammasan@gmail.com
+**Tel**: +81-70-8326-1693
