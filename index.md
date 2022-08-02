@@ -38,4 +38,6 @@ for more detail please click [Here](https://keeratifts.github.io/previous-works.
 ## Contact
 **Email**: k.fungtammasan@gmail.com
 
+**Linkedin**: [https://www.linkedin.com/in/keerati-fungtammasan-062978227/](https://www.linkedin.com/in/keerati-fungtammasan-062978227/)
+
 **Tel**: +81-70-8326-1693
